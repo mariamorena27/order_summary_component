@@ -31,7 +31,7 @@ Desenvolvido pela Frontend Mentor.<br>
 Um projeto perfeito para iniciantes que estão começando a ganhar confiança com layouts!<br>
 O desafio é construir este componente do cartão de resumo do pedido e fazê-lo parecer o mais próximo possível do design.
 
-➡️ [Acesso ao projeto](https://mariamorena27.github.io/order_summary_component/)
+➡️ &nbsp;&nbsp;[Acesso ao projeto](https://mariamorena27.github.io/order_summary_component/)
 
 ---
 
