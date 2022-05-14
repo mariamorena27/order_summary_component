@@ -109,7 +109,7 @@ main button {
   margin-bottom: 1.5rem;
   border: none;
   border-radius: 0.8rem;
-  box-shadow: 0px 16px 16px rgba(56, 42, 225, 0.16);
+  box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.2);
   transition: background 0.3s;
 }
 
@@ -135,6 +135,10 @@ main button:hover {
     background: url(assets/images/pattern-background-mobile.svg);
     background-size: 100%;
     background-repeat: no-repeat;
+  }
+
+main button {
+  box-shadow: 0px 16px 16px rgba(56, 42, 225, 0.15);
   }
 }
 
